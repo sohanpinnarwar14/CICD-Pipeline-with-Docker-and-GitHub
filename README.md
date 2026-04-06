@@ -9,10 +9,15 @@ The app runs inside a Docker container on an EC2 server and can be accessed usin
 
 
 Jenkins (CI/CD Automation)
+
 GitHub (Code Repository + Webhook)
+
 Docker (Containerization)
+
 AWS EC2 (Hosting)
+
 Linux (Ubuntu)
+
 Bash Scripting
 
 
