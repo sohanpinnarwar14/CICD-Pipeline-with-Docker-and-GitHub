@@ -27,15 +27,6 @@ git commit -m "test update"
 git push origin main
 
 
-🔧 Key Features
-
-1/Automated build and deployment
-
-2.No manual intervention required
-
-3.Real-time updates using webhook
-
-4.Containerized application for consistency
 
 
 🌐 Access Application
