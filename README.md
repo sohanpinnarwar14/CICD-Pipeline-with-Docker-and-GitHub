@@ -20,11 +20,11 @@ Bash Scripting
 
 To test the pipeline, make any change in the code and push it:
 
-git add .
+1.git add .
 
-git commit -m "test update"
+2.git commit -m "test update"
 
-git push origin main
+3.git push origin main
 
 
 
