@@ -21,5 +21,7 @@ Bash Scripting
 To test the pipeline, make any change in the code and push it:
 
 git add .
+
 git commit -m "test update"
+
 git push origin main
