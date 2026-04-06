@@ -32,4 +32,4 @@ git push origin main
 🌐 Access Application
 
 
-http://<EC2-PUBLIC-IP>:9090
+http://public-ip:9090
